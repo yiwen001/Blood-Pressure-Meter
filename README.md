@@ -14,7 +14,9 @@ This project is to build a semiautomated blood pressure/HR measuring device. The
 4.deflate the cuff to 30 mmHg when the screen shows "Deflate to 30 mmHg"
 
 5.All the results will shown on the screen after the deflation,  
- 
+
+### Video Link
+https://vimeo.com/714136461
 
 ### Contributor
 
